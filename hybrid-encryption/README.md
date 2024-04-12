@@ -1,4 +1,4 @@
-VIEH HYBRID ENCRYPTION PROJECT
+HYBRID ENCRYPTION PROJECT
 
 The main aim of this project is to make files more secure by using hybrid encryption, and to
 provide integrity of data.
